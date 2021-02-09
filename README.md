@@ -1,4 +1,4 @@
-<center> <h1> Lab 2 Report</h1> </center>
+<center> <h1> Lab 3 Report</h1> </center>
 
 | **Course Name**  | **Windows Operating System \|\|\|**|
 |:-------------| :-----------------------------:|
