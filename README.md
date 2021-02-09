@@ -5,10 +5,11 @@
 |Student Name  | Ryan Spaulding-Best            |
 |Student ID    | 040965856                      |
 
-
-# Location
-
+# lab03-00
 ![alt text](Screenshots/lab03-00.jpg)
+## #1
+### Assigned Software Deployment 
+
 ![alt text](Screenshots/lab03-03.jpg)
 ![alt text](Screenshots/lab03-04.jpg)
 ![alt text](Screenshots/lab03-05.jpg)
