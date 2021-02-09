@@ -6,11 +6,21 @@
 |Student ID    | 040965856                      |
 
 # lab03-00
+
 ![alt text](Screenshots/lab03-00.jpg)
-## #1
-### Assigned Software Deployment 
+
+
+## #1 Assigned Software Deployment
+
+
+## #2 You would create GPOs to in the ITS OU
+
+
+# lab03-03
 
 ![alt text](Screenshots/lab03-03.jpg)
+
+
 ![alt text](Screenshots/lab03-04.jpg)
 ![alt text](Screenshots/lab03-05.jpg)
 ![alt text](Screenshots/lab03-08.jpg)
