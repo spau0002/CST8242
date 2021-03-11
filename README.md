@@ -51,4 +51,36 @@
 
 ## #12 more options under mailbox usage allows you to set storage quotas per user
 
-## #13 in your ecp Windows
+## #15 in your ecp Window
+
+## Lab05-16
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_16.JPG)
+
+## Lab05-17
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_17.JPG)
+
+## Lab05-18
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_18.JPG)
+
+## Lab05-19
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_19.JPG)
+
+## #20 >mkdir DDrive\Databases\DB1
+
+## Lab05-21
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_21.JPG)
+
+## Lab05-22
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_22.JPG)
+
+## Lab05-23
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_23.JPG)
+
+## #24 Get-Mailbox -Database "DB1" | New-MoveRequest -BatchName "Logs\DB1 to NEW\DB1" -TargetDatabase "Logs\NEW\DB1"
