@@ -57,10 +57,4 @@
 
 ![Screenshots/Lab05_13.jpg](Screenshots/Lab05_13.jpg)
 
-## Lab05-15
 
-![Screenshots/Lab05_15.jpg](Screenshots/Lab05_15.jpg)
-
-## Lab05-15
-
-![Screenshots/Lab05_15.jpg](Screenshots/Lab05_15.jpg)
