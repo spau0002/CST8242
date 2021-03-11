@@ -1,4 +1,4 @@
-JPG# Lab 5 Report
+# Lab 5 Report
 
 | **Course Name**  | **Windows Operating System \|\|\|**|
 |:-------------| :-----------------------------:|
