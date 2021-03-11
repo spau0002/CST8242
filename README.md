@@ -1,5 +1,10 @@
 # Lab 4 Report
 
+| **Course Name**  | **Windows Operating System \|\|\|**|
+|:-------------| :-----------------------------:|
+|Student Name  | Ryan Spaulding-Best            |
+|Student ID    | 040965856                      |
+
 ## Lab04-01
 
 ![Screenshots/Lab04_01.jpg](Screenshots/Lab04_01.jpg)
