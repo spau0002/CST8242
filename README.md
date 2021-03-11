@@ -1,4 +1,4 @@
-# Lab 5 Report
+JPG# Lab 5 Report
 
 | **Course Name**  | **Windows Operating System \|\|\|**|
 |:-------------| :-----------------------------:|
@@ -11,50 +11,44 @@
 
 ## Lab05-02
 
-![Screenshots/Lab05_02.jpg](Screenshots/Lab05_02.JPG)
+![Screenshots/Lab05_02.JPG](Screenshots/Lab05_02.JPG)
 
 ## Lab05-03
 
-![Screenshots/Lab05_03.jpg](Screenshots/Lab05_03.jpg)
+![Screenshots/Lab05_03.JPG](Screenshots/Lab05_03.JPG)
 
 ## Lab05-04
 
-![Screenshots/Lab05_04.jpg](Screenshots/Lab05_04.jpg)
+![Screenshots/Lab05_04.JPG](Screenshots/Lab05_04.JPG)
 
 ## Lab05-05
 
-![Screenshots/Lab05_05.jpg](Screenshots/Lab05_05.jpg)
+![Screenshots/Lab05_05.JPG](Screenshots/Lab05_05.JPG)
 
 ## Lab05-06
 
-![Screenshots/Lab05_06.jpg](Screenshots/Lab05_06.jpg)
+![Screenshots/Lab05_06.JPG](Screenshots/Lab05_06.JPG)
 
 ## Lab05-07
 
-![Screenshots/Lab05_07.jpg](Screenshots/Lab05_07.jpg)
+![Screenshots/Lab05_07.JPG](Screenshots/Lab05_07.JPG)
 
 ## Lab05-08
 
-![Screenshots/Lab05_08.jpg](Screenshots/Lab05_08.jpg)
+![Screenshots/Lab05_08.JPG](Screenshots/Lab05_08.JPG)
 
 ## Lab05-09
 
-![Screenshots/Lab05_09.jpg](Screenshots/Lab05_09.jpg)
+![Screenshots/Lab05_09.JPG](Screenshots/Lab05_09.JPG)
 
 ## Lab05-10
 
-![Screenshots/Lab05_10.jpg](Screenshots/Lab05_10.jpg)
+![Screenshots/Lab05_10.JPG](Screenshots/Lab05_10.JPG)
 
 ## Lab05-11
 
-![Screenshots/Lab05_11.jpg](Screenshots/Lab05_11.jpg)
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_11.JPG)
 
-## Lab05-12
+## #12 more options under mailbox usage allows you to set storage quotas per user
 
-![Screenshots/Lab05_12.jpg](Screenshots/Lab05_12.jpg)
-
-## Lab05-13
-
-![Screenshots/Lab05_13.jpg](Screenshots/Lab05_13.jpg)
-
-
+## #13 in your ecp Windows
