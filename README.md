@@ -8,3 +8,7 @@
 ## Lab05-01
 
 ![Screenshots/Lab05_01.jpg](Screenshots/Lab05_01.jpg)
+
+Lab05_01.JPG
+
+![alt text](Screenshots/Lab05_01.jpg)
