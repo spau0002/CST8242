@@ -84,3 +84,79 @@
 ![Screenshots/Lab05_11.JPG](Screenshots/Lab05_23.JPG)
 
 ## #24 Get-Mailbox -Database "DB1" | New-MoveRequest -BatchName "Logs\DB1 to NEW\DB1" -TargetDatabase "Logs\NEW\DB1"
+
+## Lab05-26
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_26.JPG)
+
+## #27 Yes, DB1 still remains
+
+## Lab05-28
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_28.JPG)
+
+## Lab05-29
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_29.JPG)
+
+## Lab05-30
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_30.JPG)
+
+## Lab05-31
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_31.JPG)
+
+## Lab05-35
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_35.JPG)
+
+## Lab05-36
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_36.JPG)
+
+## Lab05-37
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_37.JPG)
+
+## Lab05-38
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_38.JPG)
+
+## Lab05-39
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_39.JPG)
+
+## Lab05-40
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_40.JPG)
+
+## Lab05-41
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_41.JPG)
+
+## Lab05-42
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_42.JPG)
+
+## Lab05-43
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_43.JPG)
+
+## Lab05-44
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_44.JPG)
+
+## Lab05-46
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_46.JPG)
+
+## #47 retention hold is a feature that allows users to hold items past the delete window if they are on vacation etc
+
+## Lab05-48
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_48.JPG)
+
+## Lab05-51
+
+![Screenshots/Lab05_11.JPG](Screenshots/Lab05_51.JPG)
