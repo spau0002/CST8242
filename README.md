@@ -2,7 +2,7 @@
 
 ## Lab04-01
 
-![alt text](Screenshots/Lab04_01.jpg)
+![Screenshots/Lab04_01.jpg](Screenshots/Lab04_01.jpg)
 
 ## Lab04-02
 
