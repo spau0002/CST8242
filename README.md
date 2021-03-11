@@ -3,15 +3,15 @@
 | **Course Name**  | **Windows Operating System \|\|\|**|
 |:-------------| :-----------------------------:|
 |Student Name  | Ryan Spaulding-Best            |
-|Student ID    | 050965856                      |
+|Student ID    | 040965856                      |
 
 ## Lab05-01
 
-![Screenshots/Lab05_01.jpg](Screenshots/Lab05_01.jpg)
+![alt-text](Screenshots/Lab05_01.JPG)
 
 ## Lab05-02
 
-![Screenshots/Lab05_02.jpg](Screenshots/Lab05_02.jpg)
+![Screenshots/Lab05_02.jpg](Screenshots/Lab05_02.JPG)
 
 ## Lab05-03
 
