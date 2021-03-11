@@ -11,7 +11,7 @@
 
 ## Lab05-02
 
-![Screenshots/Lab05_02.jpg](Screenshots/Lab05_02.jpg)
+![Screenshots/Lab05_02.jpg](Screenshots/Lab05_02.JPG)
 
 ## Lab05-03
 
